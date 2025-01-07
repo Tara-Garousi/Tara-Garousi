@@ -4,10 +4,9 @@ I am Tara Garousi,
 
 **Electrical Engineer and AI Enthusiast**, specializing in Data Science, Machine Learning, and Image Processing.  
 
-Here, you can find my Open Source projects, contributions, and resources related to Python, AI, and more.
-
+- Here, you can find my Open Source projects, contributions, and resources related to Python, AI, and more.
 With experience in teaching, research, and hands-on development, I aim to deliver impactful results through collaboration and continuous learning.
-I am always open to exploring new opportunities and contributing to the AI and data science community.
+I am always open to exploring new opportunities and contributing to the AI and data science community
 ---
 
 ### 🚀 **About Me:**
