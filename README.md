@@ -41,12 +41,12 @@ Here are the tools and technologies I work with:
  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 
  
-Feel free to connect with me:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+
 
 
 ### 🌟 **Connect with me:**
-- 💼 [LinkedIn Profile](www.linkedin.com/in/tara-garousi-315807184)
-- 📫 [Email](taragarousi431@gmail.com)
+Feel free to connect with me:
+- 💼 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/tara-garousi-315807184)
+- 📫 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](taragarousi431@gmail.com)
 ---
