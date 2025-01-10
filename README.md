@@ -46,7 +46,6 @@ Here are the tools and technologies I work with:
 
 
 ### 🌟 **Connect with me:**
-Feel free to connect with me:
-- 💼 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/tara-garousi-315807184)
-- 📫 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](taragarousi431@gmail.com)
----
+Feel free to connect with me:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
