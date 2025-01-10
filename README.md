@@ -1,12 +1,16 @@
 # Hi there 👋
+## I am Tara Garousi,
 
-I am Tara Garousi,  
+### Teacher | AI Enthusiast | Data Science & Machine Learning Practitioner
 
-**Electrical Engineer and AI Enthusiast**, specializing in Data Science, Machine Learning, and Image Processing.  
+With a strong background in teaching and a passion for learning, I combine years of experience in education with my dedication to advancing in Artificial Intelligence, Machine Learning, and Computer Vision. Over the years, I’ve successfully shifted my career from teaching Physical Education to exploring the depths of Artificial Intelligence, driven by curiosity and a passion for lifelong learning.
 
-- Here, you can find my Open Source projects, contributions, and resources related to Python, AI, and more.
+Here, you’ll find a collection of my open-source projects, contributions, and resources in Python, Data Science, and AI.
+Over the past few years, I have dedicated my time to developing projects and solving challenges in AI, data cleaning, and image processing. My expertise includes creating innovative solutions for complex problems using machine learning models, programming in Python, and processing large datasets.
+
 With experience in teaching, research, and hands-on development, I aim to deliver impactful results through collaboration and continuous learning.
-I am always open to exploring new opportunities and contributing to the AI and data science community
+I am always open to exploring new opportunities and contributing to the AI and data science community.
+
 ---
 
 ### 🚀 **About Me:**
@@ -27,6 +31,20 @@ I am always open to exploring new opportunities and contributing to the AI and d
 - You can also connect with me:
 
 ---
+## 🛠 Tech Stack
+
+Here are the tools and technologies I work with:
+
+
+ ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+ ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+ ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+
+ 
+Feel free to connect with me:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
 
 ### 🌟 **Connect with me:**
 - 💼 [LinkedIn Profile](www.linkedin.com/in/tara-garousi-315807184)
